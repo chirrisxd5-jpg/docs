@@ -1,6 +1,7 @@
 ---
 id: setgame
-sidebar_label: "$(setgame)"
+sidebar_label: "!setgame
+"
 description: "Learn how to use the $(setgame) variable to change the stream game in StreamElements Chatbot. Includes usage, examples, and parameters."
 tags:
   - chatbot
